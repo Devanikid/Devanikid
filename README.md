@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is <b>Shahzad Devani</b>, and I'm currently a student at General Assembly. I'll be shortly updating my profile!
 <!--
 **Devanikid/Devanikid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
