@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is <b>Shahzad Devani</b>, and I'm currently a student at General Assembly. I'll be updating my profile shortly!
+My name is <b>Shahzad Devani</b>, and I'm currently a student at General Assembly. I am a driven and detail-oriented data analyst with expertise in Python, SQL, and Tableau, offering a strong track record in data cleaning, visualization, and analysis. My most recent experiences include analytical experience in identifying product trends, showcasing correlations through visual presentations and customer success with the ability to support project plans, foster client success, and drive revenue growth. I’m looking to translate my strategic partnership expertise and analytical skills in the marketing industry. 
 <!--
 **Devanikid/Devanikid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
